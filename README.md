@@ -29,13 +29,7 @@ I'm an AI/ML enthusiast focused on Computer Vision and Intelligent Systems.
 - 👤 Person Re-Identification System
 - 🤖 AI Agent Applications
 - 📊 Computer Vision Research Projects
-## 📊 Contribution Graph
 
-[![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manoj-codes02&theme=github-dark)](https://github.com/Manoj-codes02)
-
-## 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Manoj-codes02&style=for-the-badge)
 ### ✍️ Favorite Quote
 
 <p align="center">
